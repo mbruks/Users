@@ -1,0 +1,13 @@
+﻿  E-mail.cpp
+  Functions.cpp
+D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Program\Functions.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Program\Functions.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Program\Functions.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Program\Functions.cpp(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Program\Functions.cpp(245,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Program\Functions.cpp(379,20): warning C4018: <: несоответствие типов со знаком и без знака
+  md5.cpp
+  Program.cpp
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Program.vcxproj -> D:\КУБГУ\Летняя практика 2020\Общая задача\Program\Debug\Program.exe
